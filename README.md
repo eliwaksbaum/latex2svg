@@ -1,6 +1,9 @@
 # Latex2Svg
 A quick and easy way to get embeddable, scalable images from Latex equations
 
+# tex.text
+Your Latex goes here. Surround with $ for inline and with $$ for display.
+
 ## Config.toml
 If you want to set the color, or want multiple copies in different colors,
 list the colors in RGB format and the names of their associated output directories like below.
