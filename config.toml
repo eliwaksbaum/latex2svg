@@ -1,0 +1,5 @@
+## If you want to set the color, or want multiple copies in different colors, list the colors in RGB format and the names
+## of their associated output directories like below. If you only need one copy in black, feel free to delete this file.
+
+# colors = ["32, 32, 32", "235, 235, 235"]
+# outputs = ["light", "dark"]
