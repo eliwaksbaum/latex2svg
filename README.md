@@ -6,7 +6,7 @@ Basically it just downloads the svg files that CodeCogs so graciously supplies s
 ## tex.text
 Your Latex goes here. Surround with $ for inline and with $$ for display.
 
-## Config.toml
+## config.toml
 If you want to set the color, or want multiple copies in different colors,
 list the colors in RGB format and the names of their associated output directories like below.
 ```
