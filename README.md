@@ -1,10 +1,10 @@
-# Latex2Svg
-A quick and easy way to get embeddable, scalable images from Latex equations.
+# LaTeX2Svg
+A quick and easy way to get embeddable, scalable images from LaTeX equations.
 
 Basically it just downloads the svg files that CodeCogs so graciously supplies so you can store them locally.
 
 ## tex.text
-Your Latex goes here. Surround with $ for inline and with $$ for display.
+Your LaTeX goes here. Surround with $ for inline and with $$ for display.
 
 ## config.toml
 If you want to set the color, or want multiple copies in different colors,
